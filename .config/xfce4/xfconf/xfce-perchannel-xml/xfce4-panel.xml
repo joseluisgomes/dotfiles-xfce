@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=9;x=955;y=27"/>
+      <property name="length" type="double" value="96.09375"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="22"/>
+      <property name="size" type="uint" value="40"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="15"/>
+        <value type="int" value="4"/>
+        <value type="int" value="1"/>
+        <value type="int" value="3"/>
+        <value type="int" value="13"/>
+        <value type="int" value="16"/>
+        <value type="int" value="12"/>
+        <value type="int" value="5"/>
+        <value type="int" value="11"/>
+        <value type="int" value="6"/>
+        <value type="int" value="9"/>
+        <value type="int" value="2"/>
+        <value type="int" value="8"/>
+        <value type="int" value="10"/>
+        <value type="int" value="14"/>
+        <value type="int" value="7"/>
+      </property>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.066666666666666666"/>
+        <value type="double" value="0.066666666666666666"/>
+        <value type="double" value="0.10588235294117647"/>
+        <value type="double" value="1"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="false"/>
+    </property>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="false"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="drop-down terminal"/>
+        <value type="string" value="xfce terminal"/>
+        <value type="string" value="redshift-gtk"/>
+        <value type="string" value="ethernet network connection “wired connection 1” active"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="zoom"/>
+        <value type="string" value="blueman"/>
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="redshift"/>
+      </property>
+      <property name="hidden-items" type="array">
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="redshift"/>
+      </property>
+      <property name="hidden-legacy-items" type="array">
+        <value type="string" value="xfce terminal"/>
+        <value type="string" value="drop-down terminal"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="known-players" type="string" value="firefox;spotify"/>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-10" type="string" value="notification-plugin"/>
+    <property name="plugin-14" type="string" value="actions"/>
+    <property name="plugin-7" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-15" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-1" type="string" value="docklike"/>
+    <property name="plugin-2" type="string" value="xfce4-clipman-plugin"/>
+    <property name="plugin-11" type="string" value="cpugraph">
+      <property name="update-interval" type="int" value="2"/>
+      <property name="time-scale" type="int" value="0"/>
+      <property name="size" type="int" value="16"/>
+      <property name="mode" type="int" value="1"/>
+      <property name="color-mode" type="int" value="0"/>
+      <property name="frame" type="int" value="0"/>
+      <property name="border" type="int" value="1"/>
+      <property name="bars" type="int" value="1"/>
+      <property name="per-core" type="int" value="0"/>
+      <property name="tracked-core" type="int" value="0"/>
+      <property name="in-terminal" type="int" value="1"/>
+      <property name="startup-notification" type="int" value="0"/>
+      <property name="load-threshold" type="int" value="0"/>
+      <property name="smt-stats" type="int" value="0"/>
+      <property name="smt-issues" type="int" value="0"/>
+      <property name="per-core-spacing" type="int" value="1"/>
+      <property name="command" type="string" value=""/>
+      <property name="background" type="array">
+        <value type="double" value="1"/>
+        <value type="double" value="1"/>
+        <value type="double" value="1"/>
+        <value type="double" value="0"/>
+      </property>
+      <property name="foreground-1" type="array">
+        <value type="double" value="0.65098039215686287"/>
+        <value type="double" value="0.8901960784313725"/>
+        <value type="double" value="0.63137254901960782"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="foreground-2" type="array">
+        <value type="double" value="1"/>
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="foreground-3" type="array">
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="1"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="smt-issues-color" type="array">
+        <value type="double" value="0.90000000000000002"/>
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="foreground-system" type="array">
+        <value type="double" value="0.90000000000000002"/>
+        <value type="double" value="0.10000000000000001"/>
+        <value type="double" value="0.10000000000000001"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="foreground-user" type="array">
+        <value type="double" value="0.10000000000000001"/>
+        <value type="double" value="0.40000000000000002"/>
+        <value type="double" value="0.90000000000000002"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="foreground-nice" type="array">
+        <value type="double" value="0.90000000000000002"/>
+        <value type="double" value="0.80000000000000004"/>
+        <value type="double" value="0.20000000000000001"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="foreground-iowait" type="array">
+        <value type="double" value="0.20000000000000001"/>
+        <value type="double" value="0.90000000000000002"/>
+        <value type="double" value="0.40000000000000002"/>
+        <value type="double" value="1"/>
+      </property>
+    </property>
+    <property name="plugin-12" type="string" value="genmon">
+      <property name="command" type="string" value="/home/luis/GitHub/rice/xfce4-genmon-scripts/spotify-panel.sh"/>
+      <property name="use-label" type="bool" value="false"/>
+      <property name="text" type="string" value="(genmon)"/>
+      <property name="update-period" type="int" value="1000"/>
+      <property name="enable-single-row" type="bool" value="true"/>
+      <property name="font" type="string" value="JetBrainsMono Nerd Font 16"/>
+    </property>
+    <property name="plugin-13" type="string" value="genmon">
+      <property name="command" type="string" value="/home/luis/GitHub/rice/xfce4-genmon-scripts/datetime-panel.sh"/>
+      <property name="use-label" type="bool" value="false"/>
+      <property name="text" type="string" value="(genmon)"/>
+      <property name="update-period" type="int" value="1000"/>
+      <property name="enable-single-row" type="bool" value="true"/>
+      <property name="font" type="string" value="JetBrainsMono Nerd Font 17"/>
+    </property>
+    <property name="plugin-16" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="never-confirm-history-clear" type="bool" value="true"/>
+      </property>
+    </property>
+  </property>
+</channel>
