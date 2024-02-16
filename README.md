@@ -1,4 +1,4 @@
-# Dotfiles contents
+# Index
 
 - **OS** : [Arch Linux](https://archlinux.org/)
 - **DE** : [Xfce](https://www.xfce.org/)
