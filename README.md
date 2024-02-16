@@ -30,4 +30,9 @@
 - **Task Manager** : xfce4-taskmanager
 - **Web Browser** : firefox
 
-### ☮️ These wallpapers are not mine! All credits goes to the authors of these fantastic wallpapers.
+## Credits:
+Thanks to:
+* [ronald0x00](https://github.com/ronald0x00)
+* [cilegordev](https://github.com/cilegordev)
+* [JaKooLit](https://github.com/JaKooLit)
+* [Syndrizzle](https://github.com/Syndrizzle)
