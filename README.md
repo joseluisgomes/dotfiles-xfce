@@ -1,4 +1,4 @@
-# Index
+# Details
 
 - **OS** : [Arch Linux](https://archlinux.org/)
 - **DE** : [Xfce](https://www.xfce.org/)
@@ -7,30 +7,27 @@
 - **Icons**: [Papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - **Lockscreen**: [Litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan)
 
-## Screenshot
+## Screenshots
 
 |  Classic  |
 |  -  |
 |  ![xfce4_rice](https://github.com/joseluisgomes/dotfiles/assets/70901488/8cc524c5-a0e2-4057-a598-8bddfb67e451)  |
-| <p align="center"> **Desktop Environment** </p> |
 
 |  Multitasking  |
 |  -  |
 |  ![xfce4_rice_2](https://github.com/joseluisgomes/dotfiles/assets/70901488/9f3032da-bc68-4481-9af1-08ba81e6b6f1)  |
-| <p align="center"> **Workspace** </p> |
 
 # Dependencies
 
+- **Panel**: Xfce4-panel
 - **Shell** : zsh
 - **Terminal** : xfce4-terminal
 - **Text Editor** : vim
 - **Image Viewer** : ristretto
 - **Media Player** : parole
-- **File Manager** : thunar
+- **File Manager** : thunar, yazi
 - **Archive Manager** : Xarchiver
 - **Task Manager** : xfce4-taskmanager
 - **Web Browser** : firefox
 
-# License
-
-[GNU General Public License v3.0](LICENSE)
+### ☮️ These wallpapers are not mine! All credits goes to the authors of these fantastic wallpapers.
