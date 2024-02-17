@@ -24,7 +24,7 @@
 
 # Dependencies
 
-- **Panel**: xfce4-panel
+- **Panel**: xfce4-panel, xfce4-docklike-plugin
 - **Shell**: zsh
 - **Terminal**: xfce4-terminal
 - **Text Editor**: vim
@@ -43,7 +43,6 @@
 <img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/b818a8e5-3d5d-4d5e-8a25-a86d0b90d1be" width="300" height="370">
 <img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/8f089381-7a71-4818-95c7-0f0f1983fa9a" width="300" height="370">
 
-
 <details open>
    <summary><strong>Separator</strong></summary>
 
@@ -52,7 +51,7 @@
 <details open>
    <summary><strong>Generic Monitor</strong></summary>
 
-   - Generic Monitor matches [Genmon](https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start), in this repository, they can be found [here](https://github.com/xtonousou/xfce4-genmon-scripts.
+   - Generic Monitor matches [Genmon](https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start), in this repository, they can be found [here](https://github.com/xtonousou/xfce4-genmon-scripts).
 
 # Keybinds
 
@@ -66,6 +65,8 @@
 | `Alt + P` | Launch Kdeconnect |
 | `Alt + R` | Launch Redshift |
 | `Alt + S` | Launch Spotify |
+
+### ☮️ These wallpapers are not mine. All credits goes to the authors who have created these beautiful wallpapers. 
 
 ## Credits
 Thanks to:
