@@ -19,7 +19,7 @@
   <property name="color-selection-use-default" type="bool" value="false"/>
   <property name="color-selection" type="string" value="#f5f5e0e0dcdc"/>
   <property name="color-palette" type="string" value="rgb(69,71,90);rgb(243,139,168);rgb(166,227,161);rgb(249,226,175);rgb(137,180,250);rgb(245,194,231);rgb(245,194,231);rgb(186,194,222);rgb(88,91,112);rgb(243,139,168);rgb(166,227,161);rgb(249,226,175);rgb(137,180,250);rgb(245,194,231);rgb(148,226,213);rgb(166,173,200)"/>
-  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_UNDERLINE"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_BLOCK"/>
   <property name="scrolling-on-output" type="bool" value="true"/>
   <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
   <property name="misc-confirm-close" type="bool" value="false"/>

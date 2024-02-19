@@ -17,5 +17,5 @@
       <value type="string" value="xfce4-settings-helper"/>
     </property>
   </property>
-  <property name="do-not-disturb" type="bool" value="false"/>
+  <property name="do-not-disturb" type="bool" value="true"/>
 </channel>

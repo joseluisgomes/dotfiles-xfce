@@ -25,7 +25,7 @@
 # Dependencies
 
 - **Panel**: xfce4-panel, xfce4-docklike-plugin
-- **Shell**: zsh
+- **Shell**: zsh, zsh-theme-powerlevel10k-git
 - **Terminal**: xfce4-terminal
 - **Text Editor**: vim
 - **Image Viewer**: ristretto
@@ -65,6 +65,7 @@
 | `Alt + P` | Launch Kdeconnect |
 | `Alt + R` | Launch Redshift |
 | `Alt + S` | Launch Spotify |
+| `Alt + O` | Launch Okular |
 
 ### ☮️ These wallpapers are not mine. All credits goes to the authors who have created these beautiful wallpapers. 
 

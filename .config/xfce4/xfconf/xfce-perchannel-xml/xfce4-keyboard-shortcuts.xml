@@ -52,7 +52,6 @@
       <property name="&lt;Super&gt;e" type="string" value="thunar"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Escape" type="string" value="xkill"/>
       <property name="override" type="bool" value="true"/>
-      <property name="&lt;Super&gt;i" type="string" value="/usr/bin/xfce4-settings-manager"/>
       <property name="&lt;Super&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="&lt;Super&gt;m" type="string" value="exo-open --launch MailReader"/>
       <property name="&lt;Super&gt;b" type="string" value="exo-open --launch WebBrowser"/>
@@ -62,6 +61,8 @@
       <property name="&lt;Alt&gt;p" type="string" value="/usr/bin/kdeconnect-app"/>
       <property name="F12" type="string" value="xfce4-terminal --drop-down"/>
       <property name="&lt;Alt&gt;r" type="string" value="/usr/bin/redshift"/>
+      <property name="&lt;Super&gt;i" type="string" value="/usr/bin/xfce4-settings-manager"/>
+      <property name="&lt;Alt&gt;o" type="string" value="/usr/bin/okular"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
