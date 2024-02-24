@@ -109,6 +109,7 @@ export EDITOR='vim'
 alias zshconf="vim ~/.zshrc"
 alias vimconf="vim ~/.vimrc"
 alias blth="bluetoothctl"
+alias sptd="spotifyd"
 alias config="git --git-dir=$HOME/dotfiles --work-tree=$HOME"
 
 source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
