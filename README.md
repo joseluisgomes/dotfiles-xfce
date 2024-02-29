@@ -66,6 +66,9 @@
 | `Alt + R` | Launch Redshift |
 | `Alt + S` | Launch Spotify |
 | `Alt + O` | Launch Okular |
+| `Alt + I` | Launch IntelliJ IDEA |
+| `Alt + C` | Launch Code-OSS |
+
 
 ### ☮️ These wallpapers are not mine. All credits goes to the authors who have created these beautiful wallpapers. 
 
