@@ -64,6 +64,7 @@
       <property name="&lt;Super&gt;i" type="string" value="/usr/bin/xfce4-settings-manager"/>
       <property name="&lt;Alt&gt;o" type="string" value="/usr/bin/okular"/>
       <property name="&lt;Alt&gt;i" type="string" value="/usr/bin/idea"/>
+      <property name="&lt;Alt&gt;c" type="string" value="/usr/bin/code-oss"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
