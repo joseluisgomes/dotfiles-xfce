@@ -63,6 +63,7 @@
       <property name="&lt;Alt&gt;r" type="string" value="/usr/bin/redshift"/>
       <property name="&lt;Super&gt;i" type="string" value="/usr/bin/xfce4-settings-manager"/>
       <property name="&lt;Alt&gt;o" type="string" value="/usr/bin/okular"/>
+      <property name="&lt;Alt&gt;i" type="string" value="/usr/bin/idea"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
