@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.fontSize": 18,
+    "editor.guides.bracketPairs": true,
+    "editor.smoothScrolling": true,
+    "explorer.confirmDelete": false
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="title-mode" type="string" value="TERMINAL_TITLE_REPLACE"/>
+  <property name="dropdown-width" type="uint" value="100"/>
+  <property name="dropdown-height" type="uint" value="80"/>
+  <property name="dropdown-opacity" type="uint" value="95"/>
+  <property name="font-name" type="string" value="JetBrainsMono Nerd Font 17"/>
+  <property name="misc-default-geometry" type="string" value="82x18"/>
+  <property name="dropdown-always-show-tabs" type="bool" value="false"/>
+  <property name="misc-menubar-default" type="bool" value="false"/>
+  <property name="dropdown-keep-above" type="bool" value="false"/>
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
+  <property name="background-darkness" type="double" value="0.97999999999999998"/>
+  <property name="color-use-theme" type="bool" value="false"/>
+  <property name="color-cursor-use-default" type="bool" value="false"/>
+  <property name="color-cursor-foreground" type="string" value="#11111B"/>
+  <property name="color-cursor" type="string" value="#F5E0DC"/>
+  <property name="color-selection-use-default" type="bool" value="false"/>
+  <property name="color-selection" type="string" value="#CDD6F4"/>
+  <property name="color-palette" type="string" value="#45475A;#F38BA8;#A6E3A1;#F9E2AF;#89B4FA;#F5C2E7;#94E2D5;#BAC2DE;#585B70;#F38BA8;#A6E3A1;#F9E2AF;#89B4FA;#F5C2E7;#94E2D5;#A6ADC8"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_UNDERLINE"/>
+  <property name="scrolling-on-output" type="bool" value="true"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="misc-confirm-close" type="bool" value="false"/>
+  <property name="color-foreground" type="string" value="#CDD6F4"/>
+  <property name="color-background" type="string" value="#1E1E2E"/>
+  <property name="color-background-vary" type="bool" value="false"/>
+  <property name="color-selection-background" type="string" value="#585B70"/>
+  <property name="color-bold" type="string" value=""/>
+  <property name="color-bold-use-default" type="bool" value="true"/>
+  <property name="color-bold-is-bright" type="bool" value="true"/>
+  <property name="tab-activity-color" type="string" value="#FAB387"/>
+</channel>
