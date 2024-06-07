@@ -1,9 +1,8 @@
 {
     "workbench.colorTheme": "Catppuccin Mocha",
     "workbench.iconTheme": "catppuccin-mocha",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+    "editor.fontSize": 16,
     "bracket-pair-colorizer-2.depreciation-notice": false,
-    "editor.fontSize": 18,
-    "editor.guides.bracketPairs": true,
-    "editor.smoothScrolling": true,
-    "explorer.confirmDelete": false
+    "editor.smoothScrolling": true
 }

@@ -102,7 +102,7 @@ export EDITOR='vim'
 alias zshconf="vim ~/.zshrc"
 alias vimconf="vim ~/.vimrc"
 alias blth="bluetoothctl"
-alias sptd="spotifyd"
+alias weather="curl wttr.in/Guimarães"
 alias config="git --git-dir=$HOME/dotfiles --work-tree=$HOME"
 
 # Load zsh-syntax-highlighting plugin
