@@ -20,11 +20,18 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="false"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “nos-5e84-5” active: nos-5e84-5 (22%)"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5” active: nos-5e84-5 (29%)"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5” active: nos-5e84-5 (25%)"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (75%)"/>
+        <value type="string" value="xfce terminal"/>
         <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (47%)"/>
         <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (55%)"/>
         <value type="string" value="drop-down terminal"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="blueman"/>
       </property>
       <property name="single-row" type="bool" value="false"/>
@@ -32,7 +39,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="known-players" type="string" value="spotify"/>
+      <property name="known-players" type="string" value="firefox;spotify"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -121,24 +128,29 @@
       </property>
     </property>
     <property name="plugin-12" type="string" value="genmon">
-      <property name="command" type="string" value=""/>
-      <property name="use-label" type="bool" value="true"/>
+      <property name="command" type="string" value="/home/luis/Panel/xfce4-genmon-scripts/datetime-panel.sh"/>
+      <property name="use-label" type="bool" value="false"/>
       <property name="text" type="string" value="(genmon)"/>
-      <property name="update-period" type="int" value="30000"/>
+      <property name="update-period" type="int" value="1000"/>
       <property name="enable-single-row" type="bool" value="true"/>
-      <property name="font" type="string" value="JetBrainsMono Nerd Font Mono 14"/>
+      <property name="font" type="string" value="JetBrainsMono Nerd Font Mono Semi-Bold 18"/>
     </property>
     <property name="plugin-15" type="string" value="genmon">
-      <property name="command" type="string" value=""/>
-      <property name="use-label" type="bool" value="true"/>
+      <property name="command" type="string" value="/home/luis/Panel/xfce4-genmon-scripts/spotify-panel.sh"/>
+      <property name="use-label" type="bool" value="false"/>
       <property name="text" type="string" value="(genmon)"/>
-      <property name="update-period" type="int" value="30000"/>
+      <property name="update-period" type="int" value="1000"/>
       <property name="enable-single-row" type="bool" value="true"/>
-      <property name="font" type="string" value="JetBrainsMono Nerd Font Mono 14"/>
+      <property name="font" type="string" value="JetBrainsMono Nerd Font Mono 16"/>
     </property>
     <property name="plugin-16" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="never-confirm-history-clear" type="bool" value="true"/>
+      </property>
     </property>
   </property>
   <property name="configver" type="int" value="2"/>
@@ -170,6 +182,12 @@
         <value type="int" value="13"/>
       </property>
       <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.066666666666666666"/>
+        <value type="double" value="0.066666666666666666"/>
+        <value type="double" value="0.10588235294117647"/>
+        <value type="double" value="1"/>
+      </property>
     </property>
   </property>
 </channel>
