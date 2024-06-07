@@ -10,8 +10,8 @@
     <property name="CursorBlink" type="empty"/>
     <property name="CursorBlinkTime" type="empty"/>
     <property name="SoundThemeName" type="empty"/>
-    <property name="EnableEventSounds" type="empty"/>
-    <property name="EnableInputFeedbackSounds" type="empty"/>
+    <property name="EnableEventSounds" type="bool" value="true"/>
+    <property name="EnableInputFeedbackSounds" type="bool" value="true"/>
   </property>
   <property name="Xft" type="empty">
     <property name="DPI" type="empty"/>
@@ -23,8 +23,8 @@
   <property name="Gtk" type="empty">
     <property name="CanChangeAccels" type="empty"/>
     <property name="ColorPalette" type="empty"/>
-    <property name="FontName" type="empty"/>
-    <property name="MonospaceFontName" type="empty"/>
+    <property name="FontName" type="string" value="JetBrainsMono Nerd Font Propo 16"/>
+    <property name="MonospaceFontName" type="string" value="Monospace 16"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>
     <property name="ToolbarStyle" type="empty"/>
