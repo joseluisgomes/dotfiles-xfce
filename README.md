@@ -9,17 +9,17 @@
 
 ## Screenshots
 
-|  Classic  |
+|  Background  |
 |  -  |
-|  ![xfce4_rice](https://github.com/joseluisgomes/dotfiles/assets/70901488/8cc524c5-a0e2-4057-a598-8bddfb67e451)  |
+|  ![xfce4_rice](https://github.com/joseluisgomes/dotfiles/assets/70901488/407d67d7-c04f-42aa-a21a-488538b2a637)  |
 
 |  Multitasking  |
 |  -  |
-|  ![xfce4_rice_2](https://github.com/joseluisgomes/dotfiles/assets/70901488/9f3032da-bc68-4481-9af1-08ba81e6b6f1)  |
+|  ![xfce4_rice_2](https://github.com/joseluisgomes/dotfiles/assets/70901488/a0a90221-be44-41fe-ae87-20abe164667c)  |
 
-|  Background  |
+|  Classic  |
 |  -  |
-|  ![xfce4_rice_4](https://github.com/joseluisgomes/dotfiles/assets/70901488/cf56fe19-bed0-4d32-b122-78636695e7fd)  |
+|  ![xfce4_rice_4](https://github.com/joseluisgomes/dotfiles/assets/70901488/2288fbee-1414-4fa9-8317-e1cb37d6a7af)  |
 
 # Dependencies
 
@@ -38,9 +38,9 @@
 
 > Panel preferences match a **1920x1080** resolution monitor.
 
-<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/562224d6-04da-4410-a1da-d0fea30c1596" width="300" height="370">
-<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/b818a8e5-3d5d-4d5e-8a25-a86d0b90d1be" width="300" height="370">
-<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/8f089381-7a71-4818-95c7-0f0f1983fa9a" width="300" height="370">
+<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/407d67d7-c04f-42aa-a21a-488538b2a637" width="600" height="300">
+<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/a0a90221-be44-41fe-ae87-20abe164667c" width="600" height="300">
+<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/2288fbee-1414-4fa9-8317-e1cb37d6a7af" width="600" height="300">
 
 <details open>
    <summary><strong>Separator</strong></summary>
