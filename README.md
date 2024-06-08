@@ -11,15 +11,15 @@
 
 |  Background  |
 |  -  |
-|  ![xfce4_rice](https://github.com/joseluisgomes/dotfiles/assets/70901488/407d67d7-c04f-42aa-a21a-488538b2a637)  |
+|  ![xfce4_rice](https://github.com/joseluisgomes/dotfiles/assets/70901488/53c5b2df-c967-4004-b31d-e923bbe0c2ab)  |
 
 |  Multitasking  |
 |  -  |
-|  ![xfce4_rice_2](https://github.com/joseluisgomes/dotfiles/assets/70901488/a0a90221-be44-41fe-ae87-20abe164667c)  |
+|  ![xfce4_rice_2](https://github.com/joseluisgomes/dotfiles/assets/70901488/adc4416e-4a42-473f-b6eb-74640ec36097)  |
 
 |  Classic  |
 |  -  |
-|  ![xfce4_rice_4](https://github.com/joseluisgomes/dotfiles/assets/70901488/2288fbee-1414-4fa9-8317-e1cb37d6a7af)  |
+|  ![xfce4_rice_4](https://github.com/joseluisgomes/dotfiles/assets/70901488/fd580205-92f4-434d-afac-50711fc9201f)  |
 
 # Dependencies
 
