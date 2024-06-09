@@ -3,6 +3,7 @@
 - **OS**: [Arch Linux](https://archlinux.org/)
 - **DE**: [Xfce](https://www.xfce.org/)
 - **WM**: [Xfwm4](https://docs.xfce.org/xfce/xfwm4/start)
+- **WM theme**: [2bxfwm lucy](https://github.com/addy-dclxvi/xfwm4-theme-collections)
 - **Theme** : [Catppuccin Mocha](https://github.com/catppuccin/catppuccin)
 - **Icons**: [Papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - **Fonts**: [JetBrainsMono Nerd Font](https://archlinux.org/packages/extra/any/ttf-jetbrains-mono-nerd/)

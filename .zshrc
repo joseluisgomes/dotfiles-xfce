@@ -103,6 +103,7 @@ alias zshconf="vim ~/.zshrc"
 alias vimconf="vim ~/.vimrc"
 alias blth="bluetoothctl"
 alias weather="curl wttr.in/Guimarães"
+alias spotui="spotify_player"
 alias config="git --git-dir=$HOME/dotfiles --work-tree=$HOME"
 
 # Load zsh-syntax-highlighting plugin
