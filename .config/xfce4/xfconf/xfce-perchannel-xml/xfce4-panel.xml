@@ -20,6 +20,12 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="false"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (74%)"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (72%)"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5” active: nos-5e84-5 (37%)"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (54%)"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (70%)"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (67%)"/>
         <value type="string" value="wi-fi network connection “nos-5e84-5” active: nos-5e84-5 (22%)"/>
         <value type="string" value="wi-fi network connection “nos-5e84-5” active: nos-5e84-5 (29%)"/>
         <value type="string" value="wi-fi network connection “nos-5e84-5” active: nos-5e84-5 (25%)"/>
@@ -188,6 +194,7 @@
         <value type="double" value="0.10588235294117647"/>
         <value type="double" value="1"/>
       </property>
+      <property name="output-name" type="string" value="Primary"/>
     </property>
   </property>
 </channel>

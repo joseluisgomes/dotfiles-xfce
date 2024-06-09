@@ -4,10 +4,10 @@ last_user=
 last_extension=png
 enable_imgur_upload=true
 show_in_folder=true
-screenshot_dir=file:/home/luis/Pictures/rice
+screenshot_dir=file:/home/luis/Pictures/readme_pictures
 action=1
 delay=0
-region=3
+region=1
 show_mouse=0
 show_border=1
 

@@ -8,4 +8,7 @@
     <property name="height" type="uint" value="1004"/>
     <property name="width" type="uint" value="956"/>
   </property>
+  <property name="file" type="empty">
+    <property name="current-uri" type="string" value=""/>
+  </property>
 </channel>

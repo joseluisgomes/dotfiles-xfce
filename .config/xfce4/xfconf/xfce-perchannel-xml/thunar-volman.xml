@@ -10,4 +10,7 @@
   <property name="autobrowse" type="empty">
     <property name="enabled" type="bool" value="true"/>
   </property>
+  <property name="autokeyboard" type="empty">
+    <property name="enabled" type="bool" value="false"/>
+  </property>
 </channel>

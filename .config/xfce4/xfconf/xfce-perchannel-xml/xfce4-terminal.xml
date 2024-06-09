@@ -11,7 +11,7 @@
   <property name="misc-menubar-default" type="bool" value="false"/>
   <property name="dropdown-keep-above" type="bool" value="false"/>
   <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
-  <property name="background-darkness" type="double" value="0.97999999999999998"/>
+  <property name="background-darkness" type="double" value="0.94999999999999996"/>
   <property name="color-use-theme" type="bool" value="false"/>
   <property name="color-cursor-use-default" type="bool" value="false"/>
   <property name="color-cursor-foreground" type="string" value="#11111B"/>

@@ -61,7 +61,6 @@
       <property name="&lt;Alt&gt;p" type="string" value="/usr/bin/kdeconnect-app"/>
       <property name="F12" type="string" value="xfce4-terminal --drop-down"/>
       <property name="&lt;Alt&gt;r" type="string" value="/usr/bin/redshift"/>
-      <property name="&lt;Super&gt;i" type="string" value="/usr/bin/xfce4-settings-manager"/>
       <property name="&lt;Alt&gt;o" type="string" value="/usr/bin/okular"/>
       <property name="&lt;Alt&gt;c" type="string" value="/usr/bin/code-oss"/>
     </property>
@@ -194,6 +193,8 @@
       <property name="&lt;Super&gt;w" type="string" value="tile_up_right_key"/>
       <property name="&lt;Super&gt;a" type="string" value="tile_down_left_key"/>
       <property name="&lt;Super&gt;s" type="string" value="tile_down_right_key"/>
+      <property name="&lt;Alt&gt;&lt;Super&gt;Left" type="string" value="move_window_to_monitor_left_key"/>
+      <property name="&lt;Alt&gt;&lt;Super&gt;Right" type="string" value="move_window_to_monitor_right_key"/>
     </property>
   </property>
   <property name="providers" type="array">
