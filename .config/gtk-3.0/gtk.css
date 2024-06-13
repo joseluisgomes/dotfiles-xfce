@@ -76,15 +76,33 @@
     color: #f7768e;
 }
 
-/*      Workspace Switcher Buttons      */
-.xfce4-panel widget grid button { 
-	font-family: 'JetBrainsMono Nerd Font Mono Bold'; 
-	font-size: 20px; 
-	padding-left: 2px;
-	padding-top: 2px;
-	border-radius: 10px;
-    padding: 3px;
-	padding-left: 3px;
-	padding-right: 3px;
-	margin: 3px; 
+/* Systray */
+#sn-button{
+    background-color: #24283B;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 5px;
+    color: #f5e0dc;
+}
+
+/* Clock */
+#clock-button{
+    background-color: #24283B;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 5px;
+    color: #f5e0dc;
+}
+
+/* Workspace Switcher Buttons */
+#xfce-panel-toggle-button{
+    color: #cdd6f4;
+    padding: 3px; 
+    margin: 3px; 
+}
+
+#xfce-panel-toggle-button:checked{
+    color: #f5e0dc;
+    background-color: #24283B;
+    border-radius: 10px;
 }
