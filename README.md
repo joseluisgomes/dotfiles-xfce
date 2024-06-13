@@ -12,15 +12,15 @@
 
 |  Background  |
 |  -  |
-|  ![xfce4_rice](https://github.com/joseluisgomes/dotfiles/assets/70901488/53c5b2df-c967-4004-b31d-e923bbe0c2ab)  |
+|  ![xfce4_rice](https://github.com/joseluisgomes/dotfiles/assets/70901488/cd9ed897-1cac-4baa-ab70-49ad34e92d36)  |
 
 |  Multitasking  |
 |  -  |
-|  ![xfce4_rice_2](https://github.com/joseluisgomes/dotfiles/assets/70901488/adc4416e-4a42-473f-b6eb-74640ec36097)  |
+|  ![xfce4_rice_2](https://github.com/joseluisgomes/dotfiles/assets/70901488/1249dbed-23ef-4414-bf32-aa4ad1e5b162)  |
 
 |  Classic  |
 |  -  |
-|  ![xfce4_rice_4](https://github.com/joseluisgomes/dotfiles/assets/70901488/fd580205-92f4-434d-afac-50711fc9201f)  |
+|  ![xfce4_rice_4](https://github.com/joseluisgomes/dotfiles/assets/70901488/9b72fa78-5abb-409b-8c81-8e6ab4066478)  |
 
 # Dependencies
 
@@ -39,19 +39,14 @@
 
 > Panel preferences match a **1920x1080** resolution monitor.
 
-<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/562224d6-04da-4410-a1da-d0fea30c1596" width="300" height="370">
-<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/b818a8e5-3d5d-4d5e-8a25-a86d0b90d1be" width="300" height="370">
-<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/8f089381-7a71-4818-95c7-0f0f1983fa9a" width="300" height="370">
+<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/5180e11a-405d-41e1-ae0e-1bc0dacad569" width="300" height="370">
+<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/e571b4c3-231d-4b92-bc96-f966ee4cc182" width="300" height="370">
+<img src="https://github.com/joseluisgomes/dotfiles/assets/70901488/3510ddd4-c9e6-4b7e-a74d-c2b2f81750cb" width="300" height="370">
 
 <details open>
    <summary><strong>Separator</strong></summary>
 
    - All separators have ***transparent style***, where 2nd, 3rd and 4th are ***expanded***.
-
-<details open>
-   <summary><strong>Generic Monitor</strong></summary>
-
-   - Generic Monitor matches [Genmon](https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start), in this repository, they can be found [here](https://github.com/xtonousou/xfce4-genmon-scripts).
 
 # Keybinds
 
