@@ -4,5 +4,8 @@
     "editor.fontFamily": "'JetBrainsMono Nerd Font'",
     "editor.fontSize": 16,
     "bracket-pair-colorizer-2.depreciation-notice": false,
-    "editor.smoothScrolling": true
+    "editor.smoothScrolling": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.fontSize": 16,
+    "editor.guides.bracketPairs": "active"
 }
