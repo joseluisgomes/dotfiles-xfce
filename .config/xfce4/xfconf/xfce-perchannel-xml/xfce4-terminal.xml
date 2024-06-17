@@ -6,7 +6,7 @@
   <property name="dropdown-height" type="uint" value="80"/>
   <property name="dropdown-opacity" type="uint" value="95"/>
   <property name="font-name" type="string" value="JetBrainsMono Nerd Font 17"/>
-  <property name="misc-default-geometry" type="string" value="82x18"/>
+  <property name="misc-default-geometry" type="string" value="75x18"/>
   <property name="dropdown-always-show-tabs" type="bool" value="false"/>
   <property name="misc-menubar-default" type="bool" value="false"/>
   <property name="dropdown-keep-above" type="bool" value="false"/>
