@@ -11,5 +11,6 @@
     <property name="battery-button-action" type="uint" value="2"/>
     <property name="critical-power-level" type="uint" value="15"/>
     <property name="show-panel-label" type="int" value="0"/>
+    <property name="presentation-mode" type="bool" value="false"/>
   </property>
 </channel>

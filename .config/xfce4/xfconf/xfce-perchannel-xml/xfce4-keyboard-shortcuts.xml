@@ -58,8 +58,6 @@
       <property name="&lt;Super&gt;p" type="string" value="xfce4-display-settings --minimal"/>
       <property name="&lt;Alt&gt;v" type="string" value="/usr/bin/vesktop"/>
       <property name="&lt;Alt&gt;s" type="string" value="/usr/bin/spotify"/>
-      <property name="&lt;Alt&gt;p" type="string" value="/usr/bin/kdeconnect-app"/>
-      <property name="F12" type="string" value="xfce4-terminal --drop-down"/>
       <property name="&lt;Alt&gt;r" type="string" value="/usr/bin/redshift"/>
       <property name="&lt;Alt&gt;o" type="string" value="/usr/bin/okular"/>
       <property name="&lt;Alt&gt;c" type="string" value="/usr/bin/code-oss"/>

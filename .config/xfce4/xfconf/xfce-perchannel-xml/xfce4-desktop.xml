@@ -9,7 +9,7 @@
     <property name="screen0" type="empty">
       <property name="monitorHDMI-0" type="empty">
         <property name="workspace0" type="empty">
-          <property name="last-image" type="string" value="/home/luis/wallpapers/Arch4k.png"/>
+          <property name="last-image" type="string" value="/home/luis/wallpapers/various-arch-2-4k.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
           <property name="image-style" type="int" value="4"/>
@@ -47,7 +47,7 @@
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
           <property name="image-style" type="int" value="4"/>
           <property name="color-style" type="int" value="0"/>
-          <property name="last-image" type="string" value="/home/luis/wallpapers/various-arch-1-4k.png"/>
+          <property name="last-image" type="string" value="/home/luis/wallpapers/waves.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -79,7 +79,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="4"/>
-          <property name="last-image" type="string" value="/home/luis/wallpapers/cat_bunnies.png"/>
+          <property name="last-image" type="string" value="/home/luis/wallpapers/arch-4K.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
         </property>

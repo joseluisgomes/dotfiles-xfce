@@ -2,10 +2,6 @@
 
 <channel name="xfce4-panel" version="1.0">
   <property name="plugins" type="empty">
-    <property name="plugin-3" type="string" value="separator">
-      <property name="expand" type="bool" value="false"/>
-      <property name="style" type="uint" value="0"/>
-    </property>
     <property name="plugin-4" type="string" value="pager">
       <property name="rows" type="uint" value="1"/>
       <property name="miniature-view" type="bool" value="false"/>
@@ -20,6 +16,11 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="false"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="network"/>
+        <value type="string" value="redshift-gtk"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5” active: nos-5e84-5 (34%)"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (62%)"/>
+        <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (52%)"/>
         <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (74%)"/>
         <value type="string" value="wi-fi network connection “nos-5e84-5_ext” active: nos-5e84-5_ext (72%)"/>
         <value type="string" value="wi-fi network connection “nos-5e84-5” active: nos-5e84-5 (37%)"/>
@@ -37,10 +38,14 @@
         <value type="string" value="drop-down terminal"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="nm-applet"/>
+        <value type="string" value="KDE Connect Indicator"/>
+        <value type="string" value="redshift"/>
         <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="blueman"/>
       </property>
       <property name="single-row" type="bool" value="false"/>
+      <property name="symbolic-icons" type="bool" value="false"/>
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
@@ -53,11 +58,6 @@
       <property name="style" type="uint" value="0"/>
       <property name="expand" type="bool" value="true"/>
     </property>
-    <property name="plugin-13" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-      <property name="expand" type="bool" value="false"/>
-    </property>
-    <property name="plugin-14" type="string" value="actions"/>
     <property name="plugin-1" type="string" value="docklike"/>
     <property name="plugin-2" type="string" value="xfce4-clipman-plugin"/>
     <property name="plugin-7" type="string" value="cpugraph">
@@ -133,30 +133,18 @@
         <value type="double" value="1"/>
       </property>
     </property>
-    <property name="plugin-12" type="string" value="genmon">
-      <property name="command" type="string" value="/home/luis/Panel/xfce4-genmon-scripts/datetime-panel.sh"/>
-      <property name="use-label" type="bool" value="false"/>
-      <property name="text" type="string" value="(genmon)"/>
-      <property name="update-period" type="int" value="1000"/>
-      <property name="enable-single-row" type="bool" value="true"/>
-      <property name="font" type="string" value="JetBrainsMono Nerd Font Mono Semi-Bold 18"/>
-    </property>
-    <property name="plugin-15" type="string" value="genmon">
-      <property name="command" type="string" value="/home/luis/Panel/xfce4-genmon-scripts/spotify-panel.sh"/>
-      <property name="use-label" type="bool" value="false"/>
-      <property name="text" type="string" value="(genmon)"/>
-      <property name="update-period" type="int" value="1000"/>
-      <property name="enable-single-row" type="bool" value="true"/>
-      <property name="font" type="string" value="JetBrainsMono Nerd Font Mono 16"/>
-    </property>
-    <property name="plugin-16" type="string" value="separator">
-      <property name="expand" type="bool" value="true"/>
-      <property name="style" type="uint" value="0"/>
-    </property>
     <property name="clipman" type="empty">
       <property name="tweaks" type="empty">
         <property name="never-confirm-history-clear" type="bool" value="true"/>
       </property>
+    </property>
+    <property name="plugin-18" type="string" value="clock">
+      <property name="digital-layout" type="uint" value="3"/>
+      <property name="timezone" type="string" value="Portugal"/>
+      <property name="digital-time-font" type="string" value="JetBrainsMono Nerd Font Semi-Bold 18"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
     </property>
   </property>
   <property name="configver" type="int" value="2"/>
@@ -174,9 +162,6 @@
         <value type="int" value="4"/>
         <value type="int" value="1"/>
         <value type="int" value="5"/>
-        <value type="int" value="12"/>
-        <value type="int" value="16"/>
-        <value type="int" value="15"/>
         <value type="int" value="11"/>
         <value type="int" value="7"/>
         <value type="int" value="6"/>
@@ -184,8 +169,7 @@
         <value type="int" value="2"/>
         <value type="int" value="8"/>
         <value type="int" value="10"/>
-        <value type="int" value="14"/>
-        <value type="int" value="13"/>
+        <value type="int" value="18"/>
       </property>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-rgba" type="array">
