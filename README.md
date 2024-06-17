@@ -26,7 +26,7 @@
 
 - **Panel**: xfce4-panel, xfce4-docklike-plugin
 - **Shell**: zsh 
-- **Terminal**: xfce4-terminal
+- **Terminal**: alacritty 
 - **Text Editor**: vim
 - **Image Viewer**: ristretto
 - **Media Player**: parole
